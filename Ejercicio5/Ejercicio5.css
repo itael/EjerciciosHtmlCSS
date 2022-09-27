@@ -1,0 +1,8 @@
+.Fotos {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.Fotos img {
+    width: 300px;
+}
